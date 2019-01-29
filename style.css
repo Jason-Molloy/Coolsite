@@ -1,0 +1,54 @@
+header {
+  background-color: rgba(32, 12, 119, 0.959);
+  color: white;
+  font-family: Lucida, Monaco, monospace;
+  font-size: 15px;
+  text-align:center;
+  height:50px;
+  border:1px solid black;
+}
+#backsplash {
+  height:400px;
+  width:850px;
+  background-color:whitesmoke;
+}
+main {
+  font-family: Lucida, Monaco, monospace;
+}
+#overline {
+  height:15px;
+  width:400px;
+  background-color:rgb(217, 217, 243);
+  margin-top: 10px;
+}
+#center {
+  height:450px;
+  width:420px;
+  font-size:18px;
+  float:right;
+  margin-right:30px;
+}
+#square {
+  height:125px;
+  width:125px;
+  font-size:9px;
+  float:right;
+  margin-right:auto;
+  margin-left:25px;
+  margin-top:40px;
+}
+#column {
+  height:450px;
+  width:75px;
+  float:right;
+}
+footer {
+  margin-right: 0;
+  margin-left: 0;
+  height:100px;
+  background-color: rgba(62, 26, 221, 0.959);
+  border:1px solid black;
+}
+#indented {
+  margin-left:10px;
+}
